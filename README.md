@@ -1,5 +1,5 @@
-# evaluation-of-predictive-models-in-the-field-of-data-science
-The evaluation of predictive models in the field of data science
+# evaluation-of-predictive-models
+The evaluation of predictive models
 # Project Introduction
 
 Welcome to our data science project repository, where we explore the evaluation of predictive models in the field of data science. In this project, we focus on assessing the accuracy and reliability of various models using the Mean Absolute Error (MAE) and Symmetric Mean Absolute Percentage Error (sMAPE) metrics.
